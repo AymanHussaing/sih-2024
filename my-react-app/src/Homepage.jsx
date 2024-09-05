@@ -94,7 +94,7 @@ const Homepage = () => {
           </Row>
         </Container>
         <div className="text-center p-3 bg-dark text-white">
-          © 2023 Mithra. All rights reserved.
+          © 2024 Mithra. All rights reserved.
         </div>
       </footer>
     </div>
